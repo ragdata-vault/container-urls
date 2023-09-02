@@ -17,7 +17,7 @@
 </h3>
 
 <h3 align="center">
-<em>Scripts for the Docker Image Builder</em></h3>
+<em>A Simple Application to List Docker Container URLs</em></h3>
 
 <div align="center">
 
