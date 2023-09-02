@@ -5,7 +5,7 @@
 
 cff-version: 1.2.0
 
-title: Docker Image Builds
+title: Container URLS
 
 message: >-
   If you use this software, please cite using the
@@ -20,11 +20,11 @@ authors:
     orcid: 'https://orcid.org/0000-0001-8986-2886'
     affiliation: Redeyed Software
 
-repository-code: 'https://github.com/ragdata/docker-image-builds'
+repository-code: 'https://github.com/ragdata/container-urls'
 
-url: 'https://ragdata.github.io/docker-image-builds'
+url: 'https://ragdata.github.io/container-urls'
 
 abstract: >-
-  Scripts for the Docker Image Builder
+  Displays the URLS of all containers
 
 license: MIT
