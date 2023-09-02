@@ -1,0 +1,20 @@
+head
+    title Hosts
+    body
+        mixin link(link)
+            a(href='http://' + link)= link
+
+        ul
+            each element in list
+                if element.length > 1
+                    each address, index in element
+                        if index === 0
+                            li
+                                +link(address)
+                        else
+                            ul
+                                li
+                                    +link(address)
+                else
+                    li
+                        +link(element)

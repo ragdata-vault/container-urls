@@ -1,0 +1,19 @@
+Docker Image Builder v-0.1.0
+
+Copyright © 2022-2023 Darren (Ragdata) Poulton
+
+====================================================================
+ATTRIBUTIONS
+====================================================================
+
+This project incorporates ideas and / or code crafted by the following
+talented individuals:
+
+  - lbacik/docker_image_builder
+    Copyright (C) 2017 Lukasz Bacik <mail@luka.sh>
+    GPL Licensed
+
+====================================================================
+         "We see much further, and reach much higher,
+      only because we stand upon the shoulders of giants"
+====================================================================
